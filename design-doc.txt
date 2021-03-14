@@ -1,0 +1,4 @@
+Website will explain what hex colors are and allow you to enter in numbers and show the result.
+Colors are entered in text area and reflected in the area below. 
+Users are informed about hex colors after seeing a beautiful rainbow. 
+Link to wikipedia included for truly inquisitive minds.
